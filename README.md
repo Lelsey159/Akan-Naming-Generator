@@ -23,5 +23,5 @@ No known bugs
 For enquiries and contribution to my project, kindly reach me through E-MAIL: "lesleyhope159@gmail.com"
 ### License
 * See below for more details on licensing.
-* MIT License "https://choosealicense.com/licenses/mit/"
+* MIT License 
 * Copyright (c) 2021 **Lesley Hope**
