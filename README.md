@@ -1,5 +1,5 @@
 # Akan Names
-#### Application that generates Akan Names, 4.10.2021
+#### Application that generates Akan Names 2021
 #### **Contributor**
 Lelsey Hope
 * "https://github.com/Lelsey159"
@@ -8,7 +8,7 @@ The people of Ghana frequently name their children after the day of the week the
 ## Setup/Installation Requirements
 * Open your terminal in pc and create folder.
 * clone this repository into the folder using command line below,
-* Git clone "https://github.com/lelsey159/Akan-Names.git"
+* Git clone "https://github.com/Lelsey159/Akan-Naming-Generator.git"
 * Open it on an editor (Atom,vscode,sublime text etc.)
 * Contribute and push your changes to your repository.
 
